@@ -227,7 +227,7 @@ header {
 
 .resume-btn:hover {
     background-color: black;
-    color: #d4af37;
+    color: #000;
     border-color: #d4af37;
     transform: scale(1.05);
 }
@@ -281,4 +281,5 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
 
